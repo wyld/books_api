@@ -1,0 +1,5 @@
+django
+djangorestframework
+django-sendfile
+requests
+lxml
